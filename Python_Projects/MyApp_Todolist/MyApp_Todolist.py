@@ -49,6 +49,7 @@ def main():
     tasks = load_tasks()
     while True:
         print("\nTo-Do List:")
+        
         show_tasks(tasks)
         print("\nOptions: [1] Add [2] Remove [3] Exit")
         choice = input("Choose an option: ")
