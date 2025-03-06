@@ -1,2 +1,4 @@
 Wake up
 Go to Work
+[X] Sleep
+[ ] GYM
