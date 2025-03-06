@@ -1,4 +1,5 @@
-Wake up
-Go to Work
+[X] Wake up
+[ ] Go to Work
 [X] Sleep
 [ ] GYM
+[ ] Badminton
